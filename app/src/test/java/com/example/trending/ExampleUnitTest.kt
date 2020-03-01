@@ -1,4 +1,4 @@
-package com.example.Trending
+package com.example.trending
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
